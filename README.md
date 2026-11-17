@@ -1,6 +1,5 @@
-## Soy Merlina 👋
+# Merlina Cabrera
 
-Estudiante de Ingeniería en Computación - UNLP
+Ingeniera en Computación — Universidad Nacional de La Plata (UNLP)
 
-
-📫 merlinacabreramc@gmail.com
+Contacto: [merlinacabreramc@gmail.com](mailto:merlinacabreramc@gmail.com) • [LinkedIn](https://www.linkedin.com/in/merlina-cabrera/)
